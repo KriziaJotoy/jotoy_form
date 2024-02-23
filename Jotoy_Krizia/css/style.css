@@ -1,0 +1,175 @@
+body {
+
+    display:flex;
+
+    justify-content: center;
+
+    margin: 0;
+
+    height: 100vh;
+
+    align-items: center;
+
+    background: url('https://img.freepik.com/free-vector/abstract-blue-geometric-wave-background_1035-23052.jpg');
+
+    background-repeat: no-repeat;
+
+    background-size: 100%;
+
+
+
+
+}
+
+
+
+p {
+
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+
+.form {
+
+    background-color: skyblue;
+
+    opacity: 0.9;
+
+    padding: 100px;
+
+    border-radius: 20px;
+
+    box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+
+}
+
+
+
+.login_form h2 {
+
+    text-align: center;
+
+}
+
+
+
+.inputs {
+
+    margin-bottom: 1rem;
+
+}
+
+
+
+.inputs label {
+
+    display: block;
+
+    margin-bottom: 10px;
+
+}
+
+
+
+.inputs input {
+
+    width: 100%;
+
+    padding: 10px;
+
+    border: 1px solid white;
+
+    border-radius: 10px;
+
+}
+
+
+
+#submitbot {
+
+    width: 50%;
+
+    padding: 10px;
+
+    border-radius: 10px;
+
+    background-color: blue;
+
+    color: white;
+
+    border: none;
+
+    cursor: pointer;
+
+
+
+}
+
+#submitbot:hover {
+
+    background-color: skyblue;
+
+}
+* {
+    box-sizing: border-box;
+}
+  
+.container {
+    padding: 10px;
+
+    background-color: skyblue;
+
+    border-radius: 20px;
+  }
+  
+
+input[type=text], input[type=password], input[type=email] {
+
+    width: 100%;
+
+    padding: 8px;
+
+    margin: 5px 0 5px 0;
+
+    display: inline-block;
+
+    border: none;
+
+    background: whitesmoke;
+
+}
+
+hr {
+
+    border: 1px solid whitesmoke;
+
+    margin-bottom: 25px;
+}
+
+.registerbtn {
+
+    background-color: blue;
+
+    color: white;
+
+    padding: 16px;
+
+    margin: 5px 0;
+
+    border: none;
+
+    cursor: pointer;
+
+    width: 100%;
+
+    opacity: 0.9;
+
+}
+
+.registerbtn:hover {
+
+    background-color: skyblue;
+}
+  
